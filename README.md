@@ -31,4 +31,4 @@
 Local data management with localStorage.
 
 Hands-on experience in real-world web development.</h3>
-<img src="https://github.com/SwapnilpatilTech/javascript_Re_-Exam/blob/8c2b20494ef81938969e74ea7bd11f76fe5b18d2/final%20result%20.gif" width=100%></img>
+<img src="" width=100%></img>
